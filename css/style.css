@@ -12,13 +12,16 @@
   display: flex;
 
 }
-.logo{
-margin-top: -15px;
+
+.logo {
+  margin-top: -15px;
 }
+
 .logo img {
   height: 50px;
   width: 60px;
 }
+
 body {
   background: #fffefe;
   color: #444;
